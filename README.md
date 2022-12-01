@@ -9,7 +9,7 @@
 
 ## Introduction
 
-ERP system is capabale of managing all the operations of organization.This system is capable to manages all the operations of organization. 
+ERP system is capabale of managing all the operations of organization.This is capable to controlling all the functionalities from Finanace to HRM.It consists of muti modules which enable us 
 
 - [Simple, fast routing engine](https://laravel.com/docs/routing).
 - [Powerful dependency injection container](https://laravel.com/docs/container).
