@@ -9,7 +9,7 @@
 
 # Introduction
 
-ERP system is capabale of managing all the operations of organization.This is capable to controlling all the functionalities from Finanace to HRM.It consists of muti modules which enable us work in efficient way.
+ERP system is capabale of managing all the operations of organization.This is capable to controlling all the functionalities from Finanace to HRM.It consists of muti modules which enable us work in efficient way.Following below is the detail of project:
 
 # Country
 
