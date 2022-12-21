@@ -29,19 +29,19 @@ Automobile
 
 # Tech Stack:
 
-Laravel
-MySQL
-Selenium
-Jmeter
-Adobe XD
+- Laravel
+- MySQL
+- Selenium
+- Jmeter
+- Adobe XD
 
 # Target Devices:
 
-Website
-Tablet
-Mobile
-Laptop
-Desktop
+- Website
+- Tablet
+- Mobile
+- Laptop
+- Desktop
 
 # Process:
 
